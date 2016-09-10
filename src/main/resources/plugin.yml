@@ -1,6 +1,6 @@
 main: us.fihgu.deathmatch.Loader
 name: Deathmatch
-version: 0.0.2
+version: 0.0.1
 author: fihgu
 depend: [Toolbox, MinigameCore]
 description: A deathmatch minigame
